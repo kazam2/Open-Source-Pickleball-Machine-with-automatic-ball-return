@@ -27,7 +27,8 @@
     
     <!-- Row 1 -->
     <div style="text-align: center;">
-      <img src="https://placehold.co/300x200/667eea/ffffff?text=Front+View&font=roboto" 
+    ![IMG_9551](https://github.com/user-attachments/assets/dfe4c967-6d33-4bc7-b6cd-1796ea12fc67)
+
            style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
       <p><strong>Front View</strong></p>
     </div>
