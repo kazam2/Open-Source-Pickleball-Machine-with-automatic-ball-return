@@ -41,34 +41,14 @@
 </div>
 
 ### **Feature Close-ups**
+
 <div align="center">
-  <table>
-    <tr>
-      <!-- Box 1 -->
-      <td align="center" width="33%">
-        <div style="width: 250px; height: 200px; background: #667eea; border-radius: 6px; border: 1px solid #ddd;"></div>
-        <br>
-        <b>Full Assembly</b><br>
-        <small>Complete machine ready for action</small>
-      </td>
-      
-      <!-- Box 2 -->
-      <td align="center" width="33%">
-        <div style="width: 250px; height: 200px; background: #f093fb; border-radius: 6px; border: 1px solid #ddd;"></div>
-        <br>
-        <b>Automatic Return</b><br>
-        <small>Ball collection system</small>
-      </td>
-      
-      <!-- Box 3 -->
-      <td align="center" width="33%">
-        <div style="width: 250px; height: 200px; background: #4facfe; border-radius: 6px; border: 1px solid #ddd;"></div>
-        <br>
-        <b>Adjustable Shots</b><br>
-        <small>Speed & spin control</small>
-      </td>
-    </tr>
-  </table>
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" width="200"> | <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" width="200"> | <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" width="200"> |
+| **Full Assembly**<br>Complete machine | **Automatic Return**<br>Ball collection | **Adjustable Shots**<br>Speed control |
+
 </div>
 ## 🚀 Project Status
 
