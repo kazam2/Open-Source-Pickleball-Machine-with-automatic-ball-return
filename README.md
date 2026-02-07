@@ -26,7 +26,6 @@
   <br>
   <em><strong>Click the image above to watch the full demonstration on YouTube!</strong></em>
 </div>
-## ⚠️ **INTEREST VALIDATION PHASE**
 
 > **THIS IS AN INTEREST VALIDATION PHASE**
 > 
