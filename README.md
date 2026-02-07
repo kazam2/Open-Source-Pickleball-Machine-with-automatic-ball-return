@@ -20,10 +20,12 @@
 
 ---
 
-## 📸 Project Gallery
+## 📸 Picture Gallery
 
-### **Key Components Side-by-Side**
 <div align="center">
+  <h3>Project Images</h3>
+  
+  <!-- Main Images Side-by-Side -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
     <div style="flex: 1; min-width: 300px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
@@ -38,40 +40,29 @@
       <p><strong>Side/Angle View</strong><br>Showing the automatic ball return system and structure</p>
     </div>
   </div>
-</div>
 
-### **Feature Close-ups**
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
-             width="250" 
-             style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
-        <br>
-        <b>Full Assembly</b><br>
-        <small>Complete machine ready for action</small>
-      </td>
-      <td align="center" width="33%">
-        <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; height: 200px; display: flex; align-items: center; justify-content: center;">
-          <div style="text-align: center;">
-            <div style="font-size: 48px;">🏓</div>
-            <b>Automatic Return</b><br>
-            <small>Ball collection system</small>
-          </div>
-        </div>
-      </td>
-      <td align="center" width="33%">
-        <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; height: 200px; display: flex; align-items: center; justify-content: center;">
-          <div style="text-align: center;">
-            <div style="font-size: 48px;">⚙️</div>
-            <b>Adjustable Shots</b><br>
-            <small>Speed & spin control</small>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <!-- Additional Images Grid -->
+  <h3 style="margin-top: 40px;">Additional Views</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
+    <div style="text-align: center;">
+      <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
+           alt="Pickleball Machine Overview" 
+           style="width: 100%; height: 200px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;">
+      <p><small>Complete Assembly</small></p>
+    </div>
+    <div style="text-align: center; background: #f8f9fa; padding: 20px; border-radius: 6px; display: flex; flex-direction: column; justify-content: center;">
+      <div style="font-size: 48px;">🏓</div>
+      <p><small>Ball Return System</small></p>
+    </div>
+    <div style="text-align: center; background: #f8f9fa; padding: 20px; border-radius: 6px; display: flex; flex-direction: column; justify-content: center;">
+      <div style="font-size: 48px;">⚙️</div>
+      <p><small>Throwing Mechanism</small></p>
+    </div>
+    <div style="text-align: center; background: #f8f9fa; padding: 20px; border-radius: 6px; display: flex; flex-direction: column; justify-content: center;">
+      <div style="font-size: 48px;">🔌</div>
+      <p><small>Control Electronics</small></p>
+    </div>
+  </div>
 </div>
 
 ---
@@ -111,6 +102,7 @@
 ---
 
 ## 📁 Repository Structure
+
 
 
 Pickleball throwing machine with automatic ball return, 3D printable design, Arduino-controlled, automatic ball return mechanism  Features include adjustable speed/spin control, modular construction, and low target build cost. Controlled via bluetooth app on iphone
