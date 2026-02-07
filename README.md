@@ -19,142 +19,74 @@
 </div>
 
 ---
-
 ### **Feature Close-ups**
 <div align="center">
   
   <!-- 3x3 Image Matrix -->
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin: 30px 0;">
     
-    <!-- Image 1 -->
+    <!-- Row 1 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/800x600/667eea/ffffff?text=Front+View" target="_blank">
-        <img src="https://via.placeholder.com/300x200/667eea/ffffff?text=Front+View" 
-             alt="Front View of Pickleball Machine" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
-      </a>
-      <p><strong>Front View</strong><br>Complete assembly</p>
+      <img src="https://placehold.co/300x200/667eea/ffffff?text=Front+View&font=roboto" 
+           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
+      <p><strong>Front View</strong></p>
     </div>
     
-    <!-- Image 2 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/800x600/f093fb/ffffff?text=Side+View" target="_blank">
-        <img src="https://via.placeholder.com/300x200/f093fb/ffffff?text=Side+View" 
-             alt="Side View of Pickleball Machine" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
-      </a>
-      <p><strong>Side View</strong><br>Automatic return system</p>
+      <img src="https://placehold.co/300x200/4facfe/ffffff?text=Side+View&font=roboto" 
+           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
+      <p><strong>Side View</strong></p>
     </div>
     
-    <!-- Image 3 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/800x600/4facfe/ffffff?text=Throwing+Mechanism" target="_blank">
-        <img src="https://via.placeholder.com/300x200/4facfe/ffffff?text=Throwing+Mechanism" 
-             alt="Throwing Mechanism" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
-      </a>
-      <p><strong>Throwing Mechanism</strong><br>Dual-wheel system</p>
+      <img src="https://placehold.co/300x200/f093fb/ffffff?text=Throwing+Wheels&font=roboto" 
+           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
+      <p><strong>Throwing Wheels</strong></p>
     </div>
     
-    <!-- Image 4 -->
+    <!-- Row 2 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/800x600/43e97b/ffffff?text=Ball+Return" target="_blank">
-        <img src="https://via.placeholder.com/300x200/43e97b/ffffff?text=Ball+Return" 
-             alt="Ball Return System" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
-      </a>
-      <p><strong>Ball Return</strong><br>Collection system</p>
+      <img src="https://placehold.co/300x200/43e97b/ffffff?text=Ball+Return&font=roboto" 
+           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
+      <p><strong>Ball Return</strong></p>
     </div>
     
-    <!-- Image 5 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/800x600/ff9a9e/ffffff?text=Control+Panel" target="_blank">
-        <img src="https://via.placeholder.com/300x200/ff9a9e/ffffff?text=Control+Panel" 
-             alt="Control Panel" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
-      </a>
-      <p><strong>Control Panel</strong><br>Electronics & interface</p>
+      <img src="https://placehold.co/300x200/ff9a9e/ffffff?text=Control+Panel&font=roboto" 
+           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
+      <p><strong>Control Panel</strong></p>
     </div>
     
-    <!-- Image 6 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/800x600/a18cd1/ffffff?text=3D+Printed+Parts" target="_blank">
-        <img src="https://via.placeholder.com/300x200/a18cd1/ffffff?text=3D+Printed+Parts" 
-             alt="3D Printed Parts" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
-      </a>
-      <p><strong>3D Printed Parts</strong><br>Custom components</p>
+      <img src="https://placehold.co/300x200/a18cd1/ffffff?text=3D+Printed&font=roboto" 
+           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
+      <p><strong>3D Printed</strong></p>
     </div>
     
-    <!-- Image 7 -->
+    <!-- Row 3 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/800x600/fad0c4/ffffff?text=Assembly" target="_blank">
-        <img src="https://via.placeholder.com/300x200/fad0c4/ffffff?text=Assembly" 
-             alt="Assembly Process" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
-      </a>
-      <p><strong>Assembly</strong><br>Build process</p>
+      <img src="https://placehold.co/300x200/fad0c4/333333?text=Assembly&font=roboto" 
+           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
+      <p><strong>Assembly</strong></p>
     </div>
     
-    <!-- Image 8 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/800x600/667eea/ffffff?text=Wiring" target="_blank">
-        <img src="https://via.placeholder.com/300x200/667eea/ffffff?text=Wiring" 
-             alt="Wiring Details" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
-      </a>
-      <p><strong>Wiring</strong><br>Electrical connections</p>
+      <img src="https://placehold.co/300x200/667eea/ffffff?text=Wiring&font=roboto" 
+           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
+      <p><strong>Wiring</strong></p>
     </div>
     
-    <!-- Image 9 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/800x600/f093fb/ffffff?text=Testing" target="_blank">
-        <img src="https://via.placeholder.com/300x200/f093fb/ffffff?text=Testing" 
-             alt="Testing Phase" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
-      </a>
-      <p><strong>Testing</strong><br>Performance testing</p>
+      <img src="https://placehold.co/300x200/f093fb/ffffff?text=Testing&font=roboto" 
+           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
+      <p><strong>Testing</strong></p>
     </div>
     
   </div>
-
-  <p><em>Click any image to view it larger in a new tab</em></p>
+  
+  <p><em>Replace placeholder images with your actual photos</em></p>
   
 </div>
-
-## ✨ Key Features
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 30px 0;">
-  <div style="background: #e8f4fd; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>🔄 Automatic Ball Return</h3>
-    <p>Integrated collection and feeding system eliminates manual ball retrieval.</p>
-  </div>
-  <div style="background: #f0f7ff; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>🎯 Adjustable Shots</h3>
-    <p>Control speed, spin, and trajectory for varied training scenarios.</p>
-  </div>
-  <div style="background: #e8f4fd; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>🛠️ DIY-Friendly</h3>
-    <p>Primarily 3D printed with accessible electronic components.</p>
-  </div>
-  <div style="background: #f0f7ff; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>💰 Cost-Effective</h3>
-    <p>Target build cost under $300 (vs. $1000+ commercial machines).</p>
-  </div>
-</div>
-
----
-
-## 🚀 Project Status
-
-> ⚠️ **INTEREST VALIDATION PHASE** ⚠️
-> 
-> I've built a **working prototype** and am gauging community interest before investing 100+ hours in complete open-source documentation.
-
-### **[→ Express Interest via Google Form ←](https://forms.gle/YOUR_FORM_LINK_HERE)**
-*(Help me decide if I should create full build plans!)*
-
----
 
 ## 📁 Repository Structure
 
