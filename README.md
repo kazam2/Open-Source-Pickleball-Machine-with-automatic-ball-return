@@ -20,8 +20,6 @@
 
 ---
 
-## 📸 Project Gallery
-
 ### **Feature Close-ups**
 <div align="center">
   
@@ -30,99 +28,90 @@
     
     <!-- Image 1 -->
     <div style="text-align: center;">
-      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/front_view.jpg" target="_blank">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/front_view.jpg" 
+      <a href="https://via.placeholder.com/800x600/667eea/ffffff?text=Front+View" target="_blank">
+        <img src="https://via.placeholder.com/300x200/667eea/ffffff?text=Front+View" 
              alt="Front View of Pickleball Machine" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
-             onerror="this.src='https://via.placeholder.com/300x200/667eea/ffffff?text=Front+View'">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
       </a>
       <p><strong>Front View</strong><br>Complete assembly</p>
     </div>
     
     <!-- Image 2 -->
     <div style="text-align: center;">
-      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/side_view.jpg" target="_blank">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/side_view.jpg" 
+      <a href="https://via.placeholder.com/800x600/f093fb/ffffff?text=Side+View" target="_blank">
+        <img src="https://via.placeholder.com/300x200/f093fb/ffffff?text=Side+View" 
              alt="Side View of Pickleball Machine" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
-             onerror="this.src='https://via.placeholder.com/300x200/f093fb/ffffff?text=Side+View'">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
       </a>
       <p><strong>Side View</strong><br>Automatic return system</p>
     </div>
     
     <!-- Image 3 -->
     <div style="text-align: center;">
-      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/throwing_mechanism.jpg" target="_blank">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/throwing_mechanism.jpg" 
+      <a href="https://via.placeholder.com/800x600/4facfe/ffffff?text=Throwing+Mechanism" target="_blank">
+        <img src="https://via.placeholder.com/300x200/4facfe/ffffff?text=Throwing+Mechanism" 
              alt="Throwing Mechanism" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
-             onerror="this.src='https://via.placeholder.com/300x200/4facfe/ffffff?text=Throwing+Mechanism'">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
       </a>
       <p><strong>Throwing Mechanism</strong><br>Dual-wheel system</p>
     </div>
     
     <!-- Image 4 -->
     <div style="text-align: center;">
-      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/ball_return.jpg" target="_blank">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/ball_return.jpg" 
+      <a href="https://via.placeholder.com/800x600/43e97b/ffffff?text=Ball+Return" target="_blank">
+        <img src="https://via.placeholder.com/300x200/43e97b/ffffff?text=Ball+Return" 
              alt="Ball Return System" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
-             onerror="this.src='https://via.placeholder.com/300x200/43e97b/ffffff?text=Ball+Return'">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
       </a>
       <p><strong>Ball Return</strong><br>Collection system</p>
     </div>
     
     <!-- Image 5 -->
     <div style="text-align: center;">
-      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/control_panel.jpg" target="_blank">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/control_panel.jpg" 
+      <a href="https://via.placeholder.com/800x600/ff9a9e/ffffff?text=Control+Panel" target="_blank">
+        <img src="https://via.placeholder.com/300x200/ff9a9e/ffffff?text=Control+Panel" 
              alt="Control Panel" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
-             onerror="this.src='https://via.placeholder.com/300x200/ff9a9e/ffffff?text=Control+Panel'">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
       </a>
       <p><strong>Control Panel</strong><br>Electronics & interface</p>
     </div>
     
     <!-- Image 6 -->
     <div style="text-align: center;">
-      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/3d_parts.jpg" target="_blank">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/3d_parts.jpg" 
+      <a href="https://via.placeholder.com/800x600/a18cd1/ffffff?text=3D+Printed+Parts" target="_blank">
+        <img src="https://via.placeholder.com/300x200/a18cd1/ffffff?text=3D+Printed+Parts" 
              alt="3D Printed Parts" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
-             onerror="this.src='https://via.placeholder.com/300x200/a18cd1/ffffff?text=3D+Printed+Parts'">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
       </a>
       <p><strong>3D Printed Parts</strong><br>Custom components</p>
     </div>
     
     <!-- Image 7 -->
     <div style="text-align: center;">
-      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/assembly.jpg" target="_blank">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/assembly.jpg" 
+      <a href="https://via.placeholder.com/800x600/fad0c4/ffffff?text=Assembly" target="_blank">
+        <img src="https://via.placeholder.com/300x200/fad0c4/ffffff?text=Assembly" 
              alt="Assembly Process" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
-             onerror="this.src='https://via.placeholder.com/300x200/fad0c4/ffffff?text=Assembly'">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
       </a>
       <p><strong>Assembly</strong><br>Build process</p>
     </div>
     
     <!-- Image 8 -->
     <div style="text-align: center;">
-      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/wiring.jpg" target="_blank">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/wiring.jpg" 
+      <a href="https://via.placeholder.com/800x600/667eea/ffffff?text=Wiring" target="_blank">
+        <img src="https://via.placeholder.com/300x200/667eea/ffffff?text=Wiring" 
              alt="Wiring Details" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
-             onerror="this.src='https://via.placeholder.com/300x200/667eea/ffffff?text=Wiring'">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
       </a>
       <p><strong>Wiring</strong><br>Electrical connections</p>
     </div>
     
     <!-- Image 9 -->
     <div style="text-align: center;">
-      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/testing.jpg" target="_blank">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/testing.jpg" 
+      <a href="https://via.placeholder.com/800x600/f093fb/ffffff?text=Testing" target="_blank">
+        <img src="https://via.placeholder.com/300x200/f093fb/ffffff?text=Testing" 
              alt="Testing Phase" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
-             onerror="this.src='https://via.placeholder.com/300x200/f093fb/ffffff?text=Testing'">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
       </a>
       <p><strong>Testing</strong><br>Performance testing</p>
     </div>
@@ -132,7 +121,6 @@
   <p><em>Click any image to view it larger in a new tab</em></p>
   
 </div>
----
 
 ## ✨ Key Features
 
