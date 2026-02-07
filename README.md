@@ -46,10 +46,10 @@
 
 | | | |
 |:---:|:---:|:---:|
- ![IMG_9551](https://github.com/user-attachments/assets/dfef869c-467e-4c73-a8b9-163a82a69f4f)
- width="200" style="border-radius: 8px; border: 2px solid #eee;"> 
-<img width="600" height="800" alt="IMG_0548" src="https://github.com/user-attachments/assets/2ca82f70-411a-456b-8a27-1b468b1f27cb" />
- width="200" style="border-radius: 8px; border: 2px solid #eee;"> | <img src="./media/your-third-image.jpg" width="200" style="border-radius: 8px; border: 2px solid #eee;"> |
+| ![IMG_9551](https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3)
+ width="200"> | ![IMG_9551](https://github.com/user-attachments/assets/71fa1cf3-1565-4f6e-bf72-a0c38a57b0c5)
+ width="200"> | ![IMG_9551](https://github.com/user-attachments/assets/b57bb411-b237-48eb-9d1f-246846a6d350)
+ width="200"> |
 | **Full Assembly**<br>Complete machine | **Automatic Return**<br>Ball collection | **Adjustable Shots**<br>Speed control |
 
 </div>
