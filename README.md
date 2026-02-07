@@ -46,7 +46,7 @@
     <tr>
       <!-- Image 1 (Your first image already here) -->
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
+        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20"
              width="250" 
              style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
@@ -56,7 +56,7 @@
       
       <!-- REPLACE THIS WITH YOUR 2ND IMAGE -->
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba"  
+        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
              width="250" 
              style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
@@ -66,7 +66,7 @@
       
       <!-- REPLACE THIS WITH YOUR 3RD IMAGE -->
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
+        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20"
              width="250" 
              style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
