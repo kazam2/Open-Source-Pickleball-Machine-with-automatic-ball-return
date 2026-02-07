@@ -44,37 +44,38 @@
 <div align="center">
   <table>
     <tr>
+      <!-- Image 1 -->
       <td align="center" width="33%">
         <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
              width="250" 
              style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
         <b>Full Assembly</b><br>
-        <small>Complete machine ready for action</small>
+        <small>Complete machine</small>
       </td>
+      
+      <!-- Image 2 -->
       <td align="center" width="33%">
-        ![IMG_9551](https://github.com/user-attachments/assets/65d154c6-9ee5-4010-9a1d-39009b44a338)
-          <div style="text-align: center;">
-            <div style="font-size: 48px;">🏓</div>
-            <b>Automatic Return</b><br>
-            <small>Ball collection system</small>
-          </div>
-        </div>
+        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
+             width="250" 
+             style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
+        <br>
+        <b>Side View</b><br>
+        <small>Automatic return system</small>
       </td>
+      
+      <!-- Image 3 (if you have one, otherwise keep placeholder) -->
       <td align="center" width="33%">
-        <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; height: 200px; display: flex; align-items: center; justify-content: center;">
-          <div style="text-align: center;">
-            <div style="font-size: 48px;">⚙️</div>
-            <b>Adjustable Shots</b><br>
-            <small>Speed & spin control</small>
-          </div>
-        </div>
+        <img src="https://github.com/user-attachments/assets/YOUR-THIRD-IMAGE-ID" 
+             width="250" 
+             style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
+        <br>
+        <b>Throwing Mechanism</b><br>
+        <small>Dual-wheel system</small>
       </td>
     </tr>
   </table>
 </div>
-
----
 
 ## ✨ Key Features
 
