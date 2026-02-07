@@ -33,8 +33,8 @@
 | **Ball hopper** | **Feed carousel** | **Controller board** |
 | <img src="https://github.com/user-attachments/assets/3b250015-7d97-4417-b21c-93a11a32b3fd" width="180" style="border-radius: 6px; border: 1px solid #ddd;"> | <img src="https://github.com/user-attachments/assets/4c6c33d5-2fd6-4a7f-88ea-ddbf78d2661a" width="180" style="border-radius: 6px; border: 1px solid #ddd;"> | <img src="https://github.com/user-attachments/assets/ceaf9e27-b74e-4802-9450-cf64ed34b90e" width="180" style="border-radius: 6px; border: 1px solid #ddd;"> |
 | **Ball conveyor** | **Ball conveyor collector** | **Control unit** |
-| ![Iphone App](https://github.com/user-attachments/assets/cbc76de2-0dfc-4f06-8252-d83f94d9d29e) width="180" style="border-radius: 6px; border: 1px solid #ddd;"> | ![PCB](https://github.com/user-attachments/assets/89a81789-4b14-492b-9a51-a5aead9ef1cf) width="180" style="border-radius: 6px; border: 1px solid #ddd;"> | ![Assembly view](https://github.com/user-attachments/assets/49237522-ae43-4897-b49c-eb03a8fb4e02) width="180" style="border-radius: 6px; border: 1px solid #ddd;"> |
-| **Iphone App** | **PCB** | **Assembly view** |
+| <img src="https://github.com/user-attachments/assets/cbc76de2-0dfc-4f06-8252-d83f94d9d29e" width="180" style="border-radius: 6px; border: 1px solid #ddd;"> | <img src="https://github.com/user-attachments/assets/89a81789-4b14-492b-9a51-a5aead9ef1cf" width="180" style="border-radius: 6px; border: 1px solid #ddd;"> | <img src="https://github.com/user-attachments/assets/49237522-ae43-4897-b49c-eb03a8fb4e02" width="180" style="border-radius: 6px; border: 1px solid #ddd;"> |
+| **iPhone App** | **PCB** | **Assembly view** |
 
 </div>
 [
