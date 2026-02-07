@@ -5,19 +5,26 @@
 [![YouTube Demo](https://img.shields.io/badge/YouTube-Watch_Demo-red)](https://youtu.be/y6WTrUmHKkc)
 
 **A DIY, open-source pickleball throwing machine with integrated automatic ball return system.**
-✨ Key Features (Prototype Complete)
 
-⚠️ THIS IS AN INTEREST VALIDATION PHASE ⚠️
-
-I've built a working prototype and now need your help deciding: Should I invest 100+ hours to create complete open-source documentation?
-The machine works. Now I need to know: Are people interested in building it?
-
-✅ **Automatic Ball Return - Self-contained collection and feeding system
-✅ **Adjustable Shots - Control speed, spin, and trajectory
-✅ **DIY-Friendly - Primarily 3D printed + comercially available components
-✅ **Cost-Effective - Target build cost less than $300 + nets
-✅ **Open-Source Electronics - Arduino-based control system
 ---
+
+## ✨ **Key Features (Prototype Complete)**
+
+- ✅ **Automatic Ball Return** - Self-contained collection and feeding system
+- ✅ **Adjustable Shots** - Control speed, spin, and trajectory  
+- ✅ **DIY-Friendly** - Primarily 3D printed + commercially available components
+- ✅ **Cost-Effective** - Target build cost less than $300 + nets
+- ✅ **Open-Source Electronics** - Arduino-based control system
+
+---
+
+## ⚠️ **INTEREST VALIDATION PHASE**
+
+> **THIS IS AN INTEREST VALIDATION PHASE**
+> 
+> I've built a **working prototype** and now need your help deciding: Should I invest 100+ hours to create complete open-source documentation?
+> 
+> **The machine works. Now I need to know: Are people interested in building it?**
 
 ## 🎬 Watch It in Action
 
