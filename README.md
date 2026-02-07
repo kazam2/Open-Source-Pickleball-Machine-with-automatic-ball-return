@@ -46,13 +46,13 @@
 
 | | | |
 |:---:|:---:|:---:|
-| <img src=["./media/IMG_9551.jpg"](https://github.com/kazam2/Open-Source-Pickleball-Machine-with-automatic-ball-return/blob/main/Media/IMG_0548.png) width="200" style="border-radius: 8px; border: 2px solid #eee;"> | <img src="./media/IMG_0548.jpg" width="200" style="border-radius: 8px; border: 2px solid #eee;"> | <img src="./media/your-third-image.jpg" width="200" style="border-radius: 8px; border: 2px solid #eee;"> |
+| <img src=(https://github.com/kazam2/Open-Source-Pickleball-Machine-with-automatic-ball-return/blob/main/Media/IMG_0548.png) width="200" style="border-radius: 8px; border: 2px solid #eee;"> | <img src="./media/IMG_0548.jpg" width="200" style="border-radius: 8px; border: 2px solid #eee;"> | <img src="./media/your-third-image.jpg" width="200" style="border-radius: 8px; border: 2px solid #eee;"> |
 | **Full Assembly**<br>Complete machine | **Automatic Return**<br>Ball collection | **Adjustable Shots**<br>Speed control |
 
 </div>
 
-
-## 🚀 Project Status
+[
+](https://github.com/kazam2/Open-Source-Pickleball-Machine-with-automatic-ball-return/blob/main/Media/IMG_0548.png)## 🚀 Project Status
 
 > ⚠️ **INTEREST VALIDATION PHASE** ⚠️
 > 
