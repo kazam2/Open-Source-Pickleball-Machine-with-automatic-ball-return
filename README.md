@@ -44,9 +44,9 @@
 <div align="center">
   <table>
     <tr>
-      <!-- Image 1 (Your first image already here) -->
+      <!-- Image 1 -->
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20"
+        <img src="https://images.unsplash.com/photo-1595435934247-5d33b7f92c70?w=300&h=200&fit=crop" 
              width="250" 
              style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
@@ -54,9 +54,9 @@
         <small>Complete machine ready for action</small>
       </td>
       
-      <!-- REPLACE THIS WITH YOUR 2ND IMAGE -->
+      <!-- Image 2 -->
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
+        <img src="https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?w=300&h=200&fit=crop" 
              width="250" 
              style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
@@ -64,9 +64,9 @@
         <small>Ball collection system</small>
       </td>
       
-      <!-- REPLACE THIS WITH YOUR 3RD IMAGE -->
+      <!-- Image 3 -->
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20"
+        <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=300&h=200&fit=crop" 
              width="250" 
              style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
