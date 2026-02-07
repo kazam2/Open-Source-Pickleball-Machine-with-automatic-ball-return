@@ -42,6 +42,8 @@
 
 ### **Feature Close-ups**
 
+### **Feature Close-ups**
+
 <div align="center">
 
 | | | |
