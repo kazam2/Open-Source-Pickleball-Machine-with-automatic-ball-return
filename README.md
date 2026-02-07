@@ -5,7 +5,17 @@
 [![YouTube Demo](https://img.shields.io/badge/YouTube-Watch_Demo-red)](https://youtu.be/y6WTrUmHKkc)
 
 **A DIY, open-source pickleball throwing machine with integrated automatic ball return system.**
+✨ Key Features (Prototype Complete)
 
+⚠️ THIS IS AN INTEREST VALIDATION PHASE ⚠️
+
+I've built a working prototype and now need your help deciding: Should I invest 100+ hours to create complete open-source documentation?
+The machine works. Now I need to know: Are people interested in building it?
+✅ Automatic Ball Return - Self-contained collection and feeding system
+✅ Adjustable Shots - Control speed, spin, and trajectory
+✅ DIY-Friendly - Primarily 3D printed + comercially available components
+✅ Cost-Effective - Target build cost less than $300 + nets
+✅ Open-Source Electronics - Arduino-based control system
 ---
 
 ## 🎬 Watch It in Action
@@ -52,26 +62,7 @@
 
 ## 📁 Repository Structure
 
-
-
-
 Pickleball throwing machine with automatic ball return, 3D printable design, Arduino-controlled, automatic ball return mechanism  Features include adjustable speed/spin control, modular construction, and low target build cost. Controlled via bluetooth app on iphone
-
-⚠️ THIS IS AN INTEREST VALIDATION PHASE ⚠️
-
-I've built a working prototype and now need your help deciding: Should I invest 100+ hours to create complete open-source documentation?
-The machine works. Now I need to know: Are people interested in building it?
-
-✨ Key Features (Prototype Complete)
-
-✅ Automatic Ball Return - Self-contained collection and feeding system
-✅ Adjustable Shots - Control speed, spin, and trajectory
-✅ DIY-Friendly - Primarily 3D printed + comercially available components
-✅ Cost-Effective - Target build cost less than $300 + nets
-✅ Open-Source Electronics - Arduino-based control system
-
-→ EXPRESS INTEREST VIA GOOGLE FORM ←
-https://docs.google.com/forms/d/1AuK-2WrGwGGVmtJQZMJGoJvWgovhStvdWFtB69YmWdU/edit
 
 Why this form matters:
 
