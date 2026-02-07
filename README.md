@@ -30,90 +30,99 @@
     
     <!-- Image 1 -->
     <div style="text-align: center;">
-      <a href="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" target="_blank">
-        <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
+      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/front_view.jpg" target="_blank">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/front_view.jpg" 
              alt="Front View of Pickleball Machine" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
+             onerror="this.src='https://via.placeholder.com/300x200/667eea/ffffff?text=Front+View'">
       </a>
       <p><strong>Front View</strong><br>Complete assembly</p>
     </div>
     
     <!-- Image 2 -->
     <div style="text-align: center;">
-      <a href="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" target="_blank">
-        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
+      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/side_view.jpg" target="_blank">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/side_view.jpg" 
              alt="Side View of Pickleball Machine" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
+             onerror="this.src='https://via.placeholder.com/300x200/f093fb/ffffff?text=Side+View'">
       </a>
       <p><strong>Side View</strong><br>Automatic return system</p>
     </div>
     
-    <!-- Image 3 (Placeholder - Add your 3rd image URL) -->
+    <!-- Image 3 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/400x300/667eea/ffffff?text=Image+3" target="_blank">
-        <img src="https://via.placeholder.com/400x300/667eea/ffffff?text=Image+3" 
+      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/throwing_mechanism.jpg" target="_blank">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/throwing_mechanism.jpg" 
              alt="Throwing Mechanism" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
+             onerror="this.src='https://via.placeholder.com/300x200/4facfe/ffffff?text=Throwing+Mechanism'">
       </a>
       <p><strong>Throwing Mechanism</strong><br>Dual-wheel system</p>
     </div>
     
-    <!-- Image 4 (Placeholder - Add your 4th image URL) -->
+    <!-- Image 4 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/400x300/f093fb/ffffff?text=Image+4" target="_blank">
-        <img src="https://via.placeholder.com/400x300/f093fb/ffffff?text=Image+4" 
+      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/ball_return.jpg" target="_blank">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/ball_return.jpg" 
              alt="Ball Return System" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
+             onerror="this.src='https://via.placeholder.com/300x200/43e97b/ffffff?text=Ball+Return'">
       </a>
       <p><strong>Ball Return</strong><br>Collection system</p>
     </div>
     
-    <!-- Image 5 (Placeholder - Add your 5th image URL) -->
+    <!-- Image 5 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/400x300/4facfe/ffffff?text=Image+5" target="_blank">
-        <img src="https://via.placeholder.com/400x300/4facfe/ffffff?text=Image+5" 
+      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/control_panel.jpg" target="_blank">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/control_panel.jpg" 
              alt="Control Panel" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
+             onerror="this.src='https://via.placeholder.com/300x200/ff9a9e/ffffff?text=Control+Panel'">
       </a>
       <p><strong>Control Panel</strong><br>Electronics & interface</p>
     </div>
     
-    <!-- Image 6 (Placeholder - Add your 6th image URL) -->
+    <!-- Image 6 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/400x300/43e97b/ffffff?text=Image+6" target="_blank">
-        <img src="https://via.placeholder.com/400x300/43e97b/ffffff?text=Image+6" 
+      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/3d_parts.jpg" target="_blank">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/3d_parts.jpg" 
              alt="3D Printed Parts" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
+             onerror="this.src='https://via.placeholder.com/300x200/a18cd1/ffffff?text=3D+Printed+Parts'">
       </a>
       <p><strong>3D Printed Parts</strong><br>Custom components</p>
     </div>
     
-    <!-- Image 7 (Placeholder - Add your 7th image URL) -->
+    <!-- Image 7 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/400x300/ff9a9e/ffffff?text=Image+7" target="_blank">
-        <img src="https://via.placeholder.com/400x300/ff9a9e/ffffff?text=Image+7" 
+      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/assembly.jpg" target="_blank">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/assembly.jpg" 
              alt="Assembly Process" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
+             onerror="this.src='https://via.placeholder.com/300x200/fad0c4/ffffff?text=Assembly'">
       </a>
       <p><strong>Assembly</strong><br>Build process</p>
     </div>
     
-    <!-- Image 8 (Placeholder - Add your 8th image URL) -->
+    <!-- Image 8 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/400x300/a18cd1/ffffff?text=Image+8" target="_blank">
-        <img src="https://via.placeholder.com/400x300/a18cd1/ffffff?text=Image+8" 
+      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/wiring.jpg" target="_blank">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/wiring.jpg" 
              alt="Wiring Details" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
+             onerror="this.src='https://via.placeholder.com/300x200/667eea/ffffff?text=Wiring'">
       </a>
       <p><strong>Wiring</strong><br>Electrical connections</p>
     </div>
     
-    <!-- Image 9 (Placeholder - Add your 9th image URL) -->
+    <!-- Image 9 -->
     <div style="text-align: center;">
-      <a href="https://via.placeholder.com/400x300/fad0c4/ffffff?text=Image+9" target="_blank">
-        <img src="https://via.placeholder.com/400x300/fad0c4/ffffff?text=Image+9" 
+      <a href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/testing.jpg" target="_blank">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/media/testing.jpg" 
              alt="Testing Phase" 
-             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;"
+             onerror="this.src='https://via.placeholder.com/300x200/f093fb/ffffff?text=Testing'">
       </a>
       <p><strong>Testing</strong><br>Performance testing</p>
     </div>
