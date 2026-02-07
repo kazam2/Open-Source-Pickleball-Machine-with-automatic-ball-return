@@ -1,10 +1,117 @@
-# Open-Source-Pickleball-Machine-with-automatic-ball-return
-![IMG_9551](https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba)
+# 🏓 Open-Source Pickleball Machine with Automatic Ball Return
 
-<img width="600" height="800" alt="IMG_0548" src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" />
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Project Status: Prototype](https://img.shields.io/badge/Status-Working_Prototype-green)]()
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Watch_Demo-red)](https://youtu.be/y6WTrUmHKkc)
 
-Watch it in action
-https://youtu.be/y6WTrUmHKkc
+**A DIY, open-source pickleball throwing machine with integrated automatic ball return system.**
+
+---
+
+## 🎬 Watch It in Action
+
+<div align="center">
+  <a href="https://youtu.be/y6WTrUmHKkc" target="_blank">
+    <img src="https://img.youtube.com/vi/y6WTrUmHKkc/maxresdefault.jpg" alt="Pickleball Machine Demo" style="width: 80%; border-radius: 12px; border: 3px solid #ff0000; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  </a>
+  <br>
+  <em><strong>Click the image above to watch the full demonstration on YouTube!</strong></em>
+</div>
+
+---
+
+## 📸 Project Gallery
+
+### **Key Components Side-by-Side**
+<div align="center">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
+    <div style="flex: 1; min-width: 300px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
+           alt="Front View of Pickleball Machine" 
+           style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; border: 2px solid #eee; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <p><strong>Front View</strong><br>Complete assembly showing ball hopper and throwing mechanism</p>
+    </div>
+    <div style="flex: 1; min-width: 300px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
+           alt="Side View of Pickleball Machine" 
+           style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; border: 2px solid #eee; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <p><strong>Side/Angle View</strong><br>Showing the automatic ball return system and structure</p>
+    </div>
+  </div>
+</div>
+
+### **Feature Close-ups**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
+             width="250" 
+             style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
+        <br>
+        <b>Full Assembly</b><br>
+        <small>Complete machine ready for action</small>
+      </td>
+      <td align="center" width="33%">
+        <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; height: 200px; display: flex; align-items: center; justify-content: center;">
+          <div style="text-align: center;">
+            <div style="font-size: 48px;">🏓</div>
+            <b>Automatic Return</b><br>
+            <small>Ball collection system</small>
+          </div>
+        </div>
+      </td>
+      <td align="center" width="33%">
+        <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; height: 200px; display: flex; align-items: center; justify-content: center;">
+          <div style="text-align: center;">
+            <div style="font-size: 48px;">⚙️</div>
+            <b>Adjustable Shots</b><br>
+            <small>Speed & spin control</small>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## ✨ Key Features
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 30px 0;">
+  <div style="background: #e8f4fd; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
+    <h3>🔄 Automatic Ball Return</h3>
+    <p>Integrated collection and feeding system eliminates manual ball retrieval.</p>
+  </div>
+  <div style="background: #f0f7ff; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
+    <h3>🎯 Adjustable Shots</h3>
+    <p>Control speed, spin, and trajectory for varied training scenarios.</p>
+  </div>
+  <div style="background: #e8f4fd; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
+    <h3>🛠️ DIY-Friendly</h3>
+    <p>Primarily 3D printed with accessible electronic components.</p>
+  </div>
+  <div style="background: #f0f7ff; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
+    <h3>💰 Cost-Effective</h3>
+    <p>Target build cost under $300 (vs. $1000+ commercial machines).</p>
+  </div>
+</div>
+
+---
+
+## 🚀 Project Status
+
+> ⚠️ **INTEREST VALIDATION PHASE** ⚠️
+> 
+> I've built a **working prototype** and am gauging community interest before investing 100+ hours in complete open-source documentation.
+
+### **[→ Express Interest via Google Form ←](https://forms.gle/YOUR_FORM_LINK_HERE)**
+*(Help me decide if I should create full build plans!)*
+
+---
+
+## 📁 Repository Structure
+
 
 Pickleball throwing machine with automatic ball return, 3D printable design, Arduino-controlled, automatic ball return mechanism  Features include adjustable speed/spin control, modular construction, and low target build cost. Controlled via bluetooth app on iphone
 
