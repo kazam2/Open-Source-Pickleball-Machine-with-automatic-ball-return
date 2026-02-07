@@ -44,34 +44,34 @@
 <div align="center">
   <table>
     <tr>
-      <!-- Image 1 -->
+      <!-- Image 1 (Your first image already here) -->
       <td align="center" width="33%">
         <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
              width="250" 
              style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
         <b>Full Assembly</b><br>
-        <small>Complete machine</small>
+        <small>Complete machine ready for action</small>
       </td>
       
-      <!-- Image 2 -->
+      <!-- REPLACE THIS WITH YOUR 2ND IMAGE -->
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
+        <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba"  
              width="250" 
              style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
-        <b>Side View</b><br>
-        <small>Automatic return system</small>
+        <b>Automatic Return</b><br>
+        <small>Ball collection system</small>
       </td>
       
-      <!-- Image 3 (if you have one, otherwise keep placeholder) -->
+      <!-- REPLACE THIS WITH YOUR 3RD IMAGE -->
       <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/YOUR-THIRD-IMAGE-ID" 
+        <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
              width="250" 
              style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
-        <b>Throwing Mechanism</b><br>
-        <small>Dual-wheel system</small>
+        <b>Adjustable Shots</b><br>
+        <small>Speed & spin control</small>
       </td>
     </tr>
   </table>
