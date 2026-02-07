@@ -46,7 +46,8 @@
 
 | | | |
 |:---:|:---:|:---:|
- <img src="https://github.com/kazam2/Open-Source-Pickleball-Machine-with-automatic-ball-return/blob/main/Media/IMG_0548.png)" width="200" style="border-radius: 8px; border: 2px solid #eee;"> | <img src="./media/IMG_0548.jpg" width="200" style="border-radius: 8px; border: 2px solid #eee;"> | <img src="./media/your-third-image.jpg" width="200" style="border-radius: 8px; border: 2px solid #eee;"> |
+ ![IMG_9551](https://github.com/user-attachments/assets/dfef869c-467e-4c73-a8b9-163a82a69f4f)
+ width="200" style="border-radius: 8px; border: 2px solid #eee;"> | <img src="./media/IMG_0548.jpg" width="200" style="border-radius: 8px; border: 2px solid #eee;"> | <img src="./media/your-third-image.jpg" width="200" style="border-radius: 8px; border: 2px solid #eee;"> |
 | **Full Assembly**<br>Complete machine | **Automatic Return**<br>Ball collection | **Adjustable Shots**<br>Speed control |
 
 </div>
