@@ -1,94 +1,75 @@
-# 🏓 Open-Source Pickleball Machine with Automatic Ball Return
+# 🏓 Open-Source Pickleball Machine
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Project Status: Prototype](https://img.shields.io/badge/Status-Working_Prototype-green)]()
-[![YouTube Demo](https://img.shields.io/badge/YouTube-Watch_Demo-red)](https://youtu.be/y6WTrUmHKkc)
+[![Status](https://img.shields.io/badge/Status-Prototype-orange)]()
 
-**A DIY, open-source pickleball throwing machine with integrated automatic ball return system.**
-
----
-
-## 🎬 Watch It in Action
+## 🎯 Project Demonstration
 
 <div align="center">
-  <a href="https://youtu.be/y6WTrUmHKkc" target="_blank">
-    <img src="https://img.youtube.com/vi/y6WTrUmHKkc/maxresdefault.jpg" alt="Pickleball Machine Demo" style="width: 80%; border-radius: 12px; border: 3px solid #ff0000; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  <!-- YouTube thumbnail image with link -->
+  <a href="https://youtube.com/YOUR_LINK">
+    <img src="media/youtube_thumbnail.jpg" alt="Watch Demo" style="width: 80%; border-radius: 10px; border: 2px solid #ff0000;">
   </a>
   <br>
-  <em><strong>Click the image above to watch the full demonstration on YouTube!</strong></em>
+  <em>Click image to watch video demonstration</em>
 </div>
 
 ---
 
-## 📸 Picture Gallery
+## 📸 Project Gallery
 
+### **Main Assembly**
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="media/full_assembly_front.jpg" alt="Front View" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <p align="center"><strong>Front View</strong></p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="media/full_assembly_side.jpg" alt="Side View" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <p align="center"><strong>Side View</strong></p>
+  </div>
+</div>
+
+### **Component Details**
 <div align="center">
-  <h3>Project Images</h3>
-  
-  <!-- Main Images Side-by-Side -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-    <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
-           alt="Front View of Pickleball Machine" 
-           style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; border: 2px solid #eee; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <p><strong>Front View</strong><br>Complete assembly showing ball hopper and throwing mechanism</p>
-    </div>
-    <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
-           alt="Side View of Pickleball Machine" 
-           style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; border: 2px solid #eee; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <p><strong>Side/Angle View</strong><br>Showing the automatic ball return system and structure</p>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="media/components/ball_feeder.jpg" width="250" style="border-radius: 5px; border: 1px solid #ddd;"><br>
+        <b>Ball Feeder</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="media/components/throwing_mechanism.jpg" width="250" style="border-radius: 5px; border: 1px solid #ddd;"><br>
+        <b>Throwing Wheels</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="media/components/electronics.jpg" width="250" style="border-radius: 5px; border: 1px solid #ddd;"><br>
+        <b>Control Board</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <!-- Additional Images Grid -->
-  <h3 style="margin-top: 40px;">Additional Views</h3>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
+### **Before & After**
+<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 30px 0;">
+  <h4>Development Progress</h4>
+  <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
     <div style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
-           alt="Pickleball Machine Overview" 
-           style="width: 100%; height: 200px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;">
-      <p><small>Complete Assembly</small></p>
+      <img src="media/prototype_v1.jpg" style="width: 300px; height: 200px; object-fit: cover;">
+      <p><strong>Version 1</strong><br>Initial prototype</p>
     </div>
-    <div style="text-align: center; background: #f8f9fa; padding: 20px; border-radius: 6px; display: flex; flex-direction: column; justify-content: center;">
-      <div style="font-size: 48px;">🏓</div>
-      <p><small>Ball Return System</small></p>
-    </div>
-    <div style="text-align: center; background: #f8f9fa; padding: 20px; border-radius: 6px; display: flex; flex-direction: column; justify-content: center;">
-      <div style="font-size: 48px;">⚙️</div>
-      <p><small>Throwing Mechanism</small></p>
-    </div>
-    <div style="text-align: center; background: #f8f9fa; padding: 20px; border-radius: 6px; display: flex; flex-direction: column; justify-content: center;">
-      <div style="font-size: 48px;">🔌</div>
-      <p><small>Control Electronics</small></p>
+    <div style="font-size: 24px; color: #666;">→</div>
+    <div style="text-align: center;">
+      <img src="media/current_version.jpg" style="width: 300px; height: 200px; object-fit: cover;">
+      <p><strong>Current Version</strong><br>Refined design</p>
     </div>
   </div>
 </div>
 
 ---
 
-## ✨ Key Features
+## 🔧 Technical Specifications
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 30px 0;">
-  <div style="background: #e8f4fd; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>🔄 Automatic Ball Return</h3>
-    <p>Integrated collection and feeding system eliminates manual ball retrieval.</p>
-  </div>
-  <div style="background: #f0f7ff; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>🎯 Adjustable Shots</h3>
-    <p>Control speed, spin, and trajectory for varied training scenarios.</p>
-  </div>
-  <div style="background: #e8f4fd; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>🛠️ DIY-Friendly</h3>
-    <p>Primarily 3D printed with accessible electronic components.</p>
-  </div>
-  <div style="background: #f0f7ff; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>💰 Cost-Effective</h3>
-    <p>Target build cost under $300 (vs. $1000+ commercial machines).</p>
-  </div>
-</div>
-
----
+More text here...
 
 ## 🚀 Project Status
 
