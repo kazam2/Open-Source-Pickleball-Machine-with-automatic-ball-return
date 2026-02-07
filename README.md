@@ -21,42 +21,20 @@
 
 ---
 
-## 📸 Project Gallery
-
-### **Key Components Side-by-Side**
-<div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-    <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
-           alt="Front View of Pickleball Machine" 
-           style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; border: 2px solid #eee; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <p><strong>Front View</strong><br>Complete assembly showing ball hopper and throwing mechanism</p>
-    </div>
-    <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
-           alt="Side View of Pickleball Machine" 
-           style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; border: 2px solid #eee; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <p><strong>Side/Angle View</strong><br>Showing the automatic ball return system and structure</p>
-    </div>
-  </div>
-</div>
-
 ### **Feature Close-ups**
 
 <div align="center">
 
 | | | |
 |:---:|:---:|:---:|
-| ![Ball throwing mecanism](https://github.com/user-attachments/assets/9d714694-fb19-446f-b6fd-2b54e34b0577) width="180"> | ![Oscilator mechanism](https://github.com/user-attachments/assets/d53c6f02-c60b-4143-b80a-dda7d3c43fa8)
- width="180"> | ![Motor drivers](https://github.com/user-attachments/assets/d7d3f326-2efa-4229-a519-4657c96eb266) width="180"> |
-| **Ball throwin=wing mechanism* | **Oscilator mechanism** | **Motor drivers** |
+| <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> |
+| **Front View** | **Side View** | **Top View** |
 | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> |
 | **Mechanism** | **Wheels** | **Controls** |
 | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> |
 | **Wiring** | **3D Parts** | **Testing** |
 
 </div>
-
 [
 ](https://github.com/kazam2/Open-Source-Pickleball-Machine-with-automatic-ball-return/blob/main/Media/IMG_0548.png)## 🚀 Project Status
 
