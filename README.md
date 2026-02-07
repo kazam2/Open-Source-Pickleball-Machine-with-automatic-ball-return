@@ -123,7 +123,6 @@
   <p><em>Click any image to view it larger in a new tab</em></p>
   
 </div>
-
 ---
 
 ## ✨ Key Features
