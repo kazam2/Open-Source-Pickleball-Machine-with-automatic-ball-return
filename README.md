@@ -53,7 +53,7 @@
         <small>Complete machine ready for action</small>
       </td>
       <td align="center" width="33%">
-        <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; height: 200px; display: flex; align-items: center; justify-content: center;">
+        ![IMG_9551](https://github.com/user-attachments/assets/65d154c6-9ee5-4010-9a1d-39009b44a338)
           <div style="text-align: center;">
             <div style="font-size: 48px;">🏓</div>
             <b>Automatic Return</b><br>
