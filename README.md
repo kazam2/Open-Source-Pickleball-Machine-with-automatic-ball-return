@@ -44,9 +44,9 @@
 <div align="center">
   <table>
     <tr>
-      <!-- Image 1 -->
+      <!-- Your 1st image -->
       <td align="center" width="33%">
-        <img src="https://images.unsplash.com/photo-1595435934247-5d33b7f92c70?w=300&h=200&fit=crop" 
+        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20"
              width="250" 
              style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
@@ -54,21 +54,29 @@
         <small>Complete machine ready for action</small>
       </td>
       
-      <!-- Image 2 -->
+      <!-- Placeholder for 2nd image -->
       <td align="center" width="33%">
-        <img src="https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?w=300&h=200&fit=crop" 
-             width="250" 
-             style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
+        <div style="width: 250px; height: 200px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 6px; border: 1px solid #ddd; display: flex; align-items: center; justify-content: center;">
+          <div style="text-align: center; color: white;">
+            <div style="font-size: 48px;">📷</div>
+            <b>Image 2</b><br>
+            <small>Coming soon</small>
+          </div>
+        </div>
         <br>
         <b>Automatic Return</b><br>
         <small>Ball collection system</small>
       </td>
       
-      <!-- Image 3 -->
+      <!-- Placeholder for 3rd image -->
       <td align="center" width="33%">
-        <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=300&h=200&fit=crop" 
-             width="250" 
-             style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
+        <div style="width: 250px; height: 200px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 6px; border: 1px solid #ddd; display: flex; align-items: center; justify-content: center;">
+          <div style="text-align: center; color: white;">
+            <div style="font-size: 48px;">📷</div>
+            <b>Image 3</b><br>
+            <small>Coming soon</small>
+          </div>
+        </div>
         <br>
         <b>Adjustable Shots</b><br>
         <small>Speed & spin control</small>
@@ -76,29 +84,6 @@
     </tr>
   </table>
 </div>
-
-## ✨ Key Features
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 30px 0;">
-  <div style="background: #e8f4fd; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>🔄 Automatic Ball Return</h3>
-    <p>Integrated collection and feeding system eliminates manual ball retrieval.</p>
-  </div>
-  <div style="background: #f0f7ff; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>🎯 Adjustable Shots</h3>
-    <p>Control speed, spin, and trajectory for varied training scenarios.</p>
-  </div>
-  <div style="background: #e8f4fd; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>🛠️ DIY-Friendly</h3>
-    <p>Primarily 3D printed with accessible electronic components.</p>
-  </div>
-  <div style="background: #f0f7ff; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>💰 Cost-Effective</h3>
-    <p>Target build cost under $300 (vs. $1000+ commercial machines).</p>
-  </div>
-</div>
-
----
 
 ## 🚀 Project Status
 
