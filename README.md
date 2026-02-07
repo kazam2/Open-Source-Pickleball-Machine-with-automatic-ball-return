@@ -1,5 +1,6 @@
 # Open-Source-Pickleball-Machine-with-automatic-ball-return
 ![IMG_9551](https://github.com/user-attachments/assets/dc7353ea-b015-46c6-a80c-aea47289300e)
+<img width="1067" height="1422" alt="IMG_0548" src="https://github.com/user-attachments/assets/10f8efe7-3d74-4d60-81c2-0c25b4525690" />
 
 
 Watch it in action
