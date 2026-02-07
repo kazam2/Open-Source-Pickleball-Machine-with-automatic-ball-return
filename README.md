@@ -11,6 +11,7 @@
 
 I've built a working prototype and now need your help deciding: Should I invest 100+ hours to create complete open-source documentation?
 The machine works. Now I need to know: Are people interested in building it?
+
 ✅ Automatic Ball Return - Self-contained collection and feeding system
 ✅ Adjustable Shots - Control speed, spin, and trajectory
 ✅ DIY-Friendly - Primarily 3D printed + comercially available components
