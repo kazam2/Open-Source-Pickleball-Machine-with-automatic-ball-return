@@ -47,8 +47,9 @@
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> |
-| **Front View** | **Side View** | **Top View** |
+| ![Ball throwing mecanism](https://github.com/user-attachments/assets/9d714694-fb19-446f-b6fd-2b54e34b0577) width="180"> | ![Oscilator mechanism](https://github.com/user-attachments/assets/d53c6f02-c60b-4143-b80a-dda7d3c43fa8)
+ width="180"> | ![Motor drivers](https://github.com/user-attachments/assets/d7d3f326-2efa-4229-a519-4657c96eb266) width="180"> |
+| **Ball throwin=wing mechanism* | **Oscilator mechanism** | **Motor drivers** |
 | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> |
 | **Mechanism** | **Wheels** | **Controls** |
 | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> |
