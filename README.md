@@ -42,14 +42,12 @@
 
 ### **Feature Close-ups**
 
-### **Feature Close-ups**
-
 <div align="center">
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" width="200"> | <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" width="200"> | <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" width="200"> |
-| **Full Assembly**<br>Complete machine | **Automatic Return**<br>Ball collection | **Adjustable Shots**<br>Speed control |
+| <img src="https://i.imgur.com/abc123.jpg" width="200" style="border-radius: 6px; border: 1px solid #ddd;"> | <img src="https://i.imgur.com/def456.jpg" width="200" style="border-radius: 6px; border: 1px solid #ddd;"> | <img src="https://i.imgur.com/ghi789.jpg" width="200" style="border-radius: 6px; border: 1px solid #ddd;"> |
+| **Full Assembly**<br><small>Complete machine ready for action</small> | **Automatic Return**<br><small>Ball collection system</small> | **Adjustable Shots**<br><small>Speed & spin control</small> |
 
 </div>
 ## 🚀 Project Status
