@@ -29,8 +29,11 @@
 |:---:|:---:|:---:|
 | ![Ball throwing mechanism](https://github.com/user-attachments/assets/b31645d9-0b68-4da3-ba41-cc4fcd197730) | ![Oscillator mechanism](https://github.com/user-attachments/assets/c5e5b838-48d0-43e7-be43-235c78ddf170) | ![Motor drivers](https://github.com/user-attachments/assets/33aab541-4ebd-410f-afe0-3f768818d89a) |
 | **Ball throwing mechanism** | **Oscillator** | **Motor drivers** |
-| <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> |
-| **Front View** | **Side View** | **Top View** |
+| ![Ball hopper](https://github.com/user-attachments/assets/11eb9b0b-6c2e-474a-b42c-4815e4bac08c)
+ width="180"> | ![Feed carousel](https://github.com/user-attachments/assets/05eb3273-4829-47f0-acaa-dc6e333fead7)
+ width="180"> | ![Controller board](https://github.com/user-attachments/assets/62e5209e-919c-495c-9c75-ae84a20c9511)
+ width="180"> |
+| **Ball hopper** | **Feed carousel* | **Controller board** |
 | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> | <img src="https://github.com/user-attachments/assets/28eec0af-7ccd-4d3d-96f9-104d4685aba3" width="180"> |
 | **Mechanism** | **Wheels** | **Controls** |
 
