@@ -44,7 +44,7 @@
 <div align="center">
   <table>
     <tr>
-      <!-- Your 1st image -->
+      <!-- Image 1 -->
       <td align="center" width="33%">
         <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20"
              width="250" 
@@ -54,29 +54,21 @@
         <small>Complete machine ready for action</small>
       </td>
       
-      <!-- Placeholder for 2nd image -->
+      <!-- Same Image 2 -->
       <td align="center" width="33%">
-        <div style="width: 250px; height: 200px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 6px; border: 1px solid #ddd; display: flex; align-items: center; justify-content: center;">
-          <div style="text-align: center; color: white;">
-            <div style="font-size: 48px;">📷</div>
-            <b>Image 2</b><br>
-            <small>Coming soon</small>
-          </div>
-        </div>
+        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
+             width="250" 
+             style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
         <b>Automatic Return</b><br>
         <small>Ball collection system</small>
       </td>
       
-      <!-- Placeholder for 3rd image -->
+      <!-- Same Image 3 -->
       <td align="center" width="33%">
-        <div style="width: 250px; height: 200px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 6px; border: 1px solid #ddd; display: flex; align-items: center; justify-content: center;">
-          <div style="text-align: center; color: white;">
-            <div style="font-size: 48px;">📷</div>
-            <b>Image 3</b><br>
-            <small>Coming soon</small>
-          </div>
-        </div>
+        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20"
+             width="250" 
+             style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
         <br>
         <b>Adjustable Shots</b><br>
         <small>Speed & spin control</small>
