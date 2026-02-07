@@ -67,28 +67,7 @@
 
 ---
 
-## ✨ Key Features
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 30px 0;">
-  <div style="background: #e8f4fd; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>🔄 Automatic Ball Return</h3>
-    <p>Integrated collection and feeding system eliminates manual ball retrieval.</p>
-  </div>
-  <div style="background: #f0f7ff; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>🎯 Adjustable Shots</h3>
-    <p>Control speed, spin, and trajectory for varied training scenarios.</p>
-  </div>
-  <div style="background: #e8f4fd; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>🛠️ DIY-Friendly</h3>
-    <p>Primarily 3D printed with accessible electronic components.</p>
-  </div>
-  <div style="background: #f0f7ff; padding: 20px; border-radius: 8px; border-left: 4px solid #0066cc;">
-    <h3>💰 Cost-Effective</h3>
-    <p>Target build cost under $300 (vs. $1000+ commercial machines).</p>
-  </div>
-</div>
-
----
 
 ## 🚀 Project Status
 
@@ -102,6 +81,7 @@
 ---
 
 ## 📁 Repository Structure
+
 
 
 
