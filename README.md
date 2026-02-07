@@ -46,7 +46,7 @@
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="./media/IMG_9551.jpg" width="200"> | <img src="./IMG_9551.jpg" width="200"> | <img src="./media/IMG_9551.jpg" width="200"> |
+| <img src="./media/IMG_9551.jpg" width="200"> | <img src="./media./IMG_9551.jpg" width="200"> | <img src="./media/IMG_9551.jpg" width="200"> |
 | **Full Assembly**<br>Complete machine | **Automatic Return**<br>Ball collection | **Adjustable Shots**<br>Speed control |
 
 </div>
