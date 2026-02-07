@@ -25,91 +25,102 @@
 ### **Feature Close-ups**
 <div align="center">
   
-  <!-- Row 1: Main Images -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-    <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
-           alt="Front View of Pickleball Machine" 
-           style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; border: 2px solid #eee; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <p><strong>Front View</strong><br>Complete assembly showing ball hopper and throwing mechanism</p>
-    </div>
-    <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
-           alt="Side View of Pickleball Machine" 
-           style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; border: 2px solid #eee; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <p><strong>Side/Angle View</strong><br>Showing the automatic ball return system and structure</p>
-    </div>
-  </div>
-
-  <!-- Row 2: Additional Close-ups -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 40px 0;">
+  <!-- 3x3 Image Matrix -->
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin: 30px 0;">
     
-    <!-- Image 3 (Placeholder - add your 3rd image URL) -->
+    <!-- Image 1 -->
     <div style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
-           alt="Throwing Mechanism Close-up" 
-           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
-      <p><strong>Throwing Wheels</strong><br>Dual-wheel spin system</p>
+      <a href="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" target="_blank">
+        <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
+             alt="Front View of Pickleball Machine" 
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+      </a>
+      <p><strong>Front View</strong><br>Complete assembly</p>
     </div>
     
-    <!-- Image 4 (Placeholder - add your 4th image URL) -->
+    <!-- Image 2 -->
     <div style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
-           alt="Ball Return System" 
-           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
-      <p><strong>Ball Return</strong><br>Automatic collection system</p>
+      <a href="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" target="_blank">
+        <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
+             alt="Side View of Pickleball Machine" 
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+      </a>
+      <p><strong>Side View</strong><br>Automatic return system</p>
     </div>
     
-    <!-- Image 5 (Placeholder - add your 5th image URL) -->
-    <div style="text-align: center; background: #f8f9fa; padding: 20px; border-radius: 8px; display: flex; flex-direction: column; justify-content: center; align-items: center; height: 200px;">
-      <div style="font-size: 48px; margin-bottom: 10px;">🔌</div>
+    <!-- Image 3 (Placeholder - Add your 3rd image URL) -->
+    <div style="text-align: center;">
+      <a href="https://via.placeholder.com/400x300/667eea/ffffff?text=Image+3" target="_blank">
+        <img src="https://via.placeholder.com/400x300/667eea/ffffff?text=Image+3" 
+             alt="Throwing Mechanism" 
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+      </a>
+      <p><strong>Throwing Mechanism</strong><br>Dual-wheel system</p>
+    </div>
+    
+    <!-- Image 4 (Placeholder - Add your 4th image URL) -->
+    <div style="text-align: center;">
+      <a href="https://via.placeholder.com/400x300/f093fb/ffffff?text=Image+4" target="_blank">
+        <img src="https://via.placeholder.com/400x300/f093fb/ffffff?text=Image+4" 
+             alt="Ball Return System" 
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+      </a>
+      <p><strong>Ball Return</strong><br>Collection system</p>
+    </div>
+    
+    <!-- Image 5 (Placeholder - Add your 5th image URL) -->
+    <div style="text-align: center;">
+      <a href="https://via.placeholder.com/400x300/4facfe/ffffff?text=Image+5" target="_blank">
+        <img src="https://via.placeholder.com/400x300/4facfe/ffffff?text=Image+5" 
+             alt="Control Panel" 
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+      </a>
       <p><strong>Control Panel</strong><br>Electronics & interface</p>
     </div>
     
-    <!-- Image 6 (Placeholder - add your 6th image URL) -->
-    <div style="text-align: center; background: #f8f9fa; padding: 20px; border-radius: 8px; display: flex; flex-direction: column; justify-content: center; align-items: center; height: 200px;">
-      <div style="font-size: 48px; margin-bottom: 10px;">🖨️</div>
-      <p><strong>3D Printed Parts</strong><br>Custom designed components</p>
+    <!-- Image 6 (Placeholder - Add your 6th image URL) -->
+    <div style="text-align: center;">
+      <a href="https://via.placeholder.com/400x300/43e97b/ffffff?text=Image+6" target="_blank">
+        <img src="https://via.placeholder.com/400x300/43e97b/ffffff?text=Image+6" 
+             alt="3D Printed Parts" 
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+      </a>
+      <p><strong>3D Printed Parts</strong><br>Custom components</p>
+    </div>
+    
+    <!-- Image 7 (Placeholder - Add your 7th image URL) -->
+    <div style="text-align: center;">
+      <a href="https://via.placeholder.com/400x300/ff9a9e/ffffff?text=Image+7" target="_blank">
+        <img src="https://via.placeholder.com/400x300/ff9a9e/ffffff?text=Image+7" 
+             alt="Assembly Process" 
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+      </a>
+      <p><strong>Assembly</strong><br>Build process</p>
+    </div>
+    
+    <!-- Image 8 (Placeholder - Add your 8th image URL) -->
+    <div style="text-align: center;">
+      <a href="https://via.placeholder.com/400x300/a18cd1/ffffff?text=Image+8" target="_blank">
+        <img src="https://via.placeholder.com/400x300/a18cd1/ffffff?text=Image+8" 
+             alt="Wiring Details" 
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+      </a>
+      <p><strong>Wiring</strong><br>Electrical connections</p>
+    </div>
+    
+    <!-- Image 9 (Placeholder - Add your 9th image URL) -->
+    <div style="text-align: center;">
+      <a href="https://via.placeholder.com/400x300/fad0c4/ffffff?text=Image+9" target="_blank">
+        <img src="https://via.placeholder.com/400x300/fad0c4/ffffff?text=Image+9" 
+             alt="Testing Phase" 
+             style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee; cursor: pointer; transition: transform 0.3s ease;">
+      </a>
+      <p><strong>Testing</strong><br>Performance testing</p>
     </div>
     
   </div>
 
-  <!-- Row 3: More Images (if needed) -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0;">
-    
-    <!-- Image 7 (Placeholder) -->
-    <div style="text-align: center;">
-      <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 6px; display: flex; align-items: center; justify-content: center;">
-        <span style="color: white; font-size: 24px;">+ Add Image</span>
-      </div>
-      <p><small>More Detail 1</small></p>
-    </div>
-    
-    <!-- Image 8 (Placeholder) -->
-    <div style="text-align: center;">
-      <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 6px; display: flex; align-items: center; justify-content: center;">
-        <span style="color: white; font-size: 24px;">+ Add Image</span>
-      </div>
-      <p><small>More Detail 2</small></p>
-    </div>
-    
-    <!-- Image 9 (Placeholder) -->
-    <div style="text-align: center;">
-      <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 6px; display: flex; align-items: center; justify-content: center;">
-        <span style="color: white; font-size: 24px;">+ Add Image</span>
-      </div>
-      <p><small>More Detail 3</small></p>
-    </div>
-    
-    <!-- Image 10 (Placeholder) -->
-    <div style="text-align: center;">
-      <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 6px; display: flex; align-items: center; justify-content: center;">
-        <span style="color: white; font-size: 24px;">+ Add Image</span>
-      </div>
-      <p><small>More Detail 4</small></p>
-    </div>
-    
-  </div>
+  <p><em>Click any image to view it larger in a new tab</em></p>
   
 </div>
 
