@@ -16,16 +16,6 @@
 - ✅ **Cost-Effective** - Target build cost less than $300 + nets
 - ✅ **Open-Source Electronics** - Arduino-based control system
 
----
-
-## ⚠️ **INTEREST VALIDATION PHASE**
-
-> **THIS IS AN INTEREST VALIDATION PHASE**
-> 
-> I've built a **working prototype** and now need your help deciding: Should I invest 100+ hours to create complete open-source documentation?
-> 
-> **The machine works. Now I need to know: Are people interested in building it?**
-
 ## 🎬 Watch It in Action
 
 <div align="center">
@@ -36,6 +26,15 @@
   <br>
   <em><strong>Click the image above to watch the full demonstration on YouTube!</strong></em>
 </div>
+## ⚠️ **INTEREST VALIDATION PHASE**
+
+> **THIS IS AN INTEREST VALIDATION PHASE**
+> 
+> I've built a **working prototype** and now need your help deciding: Should I invest 100+ hours to create complete open-source documentation?
+> 
+> **The machine works. Now I need to know: Are people interested in building it?**
+
+
 ## 📊 **Help Guide Development**
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; margin: 30px 0; color: white;">
