@@ -22,8 +22,10 @@
 
 ## 📸 Project Gallery
 
-### **Key Components Side-by-Side**
+### **Feature Close-ups**
 <div align="center">
+  
+  <!-- Row 1: Main Images -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
     <div style="flex: 1; min-width: 300px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
@@ -38,40 +40,77 @@
       <p><strong>Side/Angle View</strong><br>Showing the automatic ball return system and structure</p>
     </div>
   </div>
-</div>
 
-### **Feature Close-ups**
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
-             width="250" 
-             style="border-radius: 6px; border: 1px solid #ddd; object-fit: cover; height: 200px;">
-        <br>
-        <b>Full Assembly</b><br>
-        <small>Complete machine ready for action</small>
-      </td>
-      <td align="center" width="33%">
-        <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; height: 200px; display: flex; align-items: center; justify-content: center;">
-          <div style="text-align: center;">
-            <div style="font-size: 48px;">🏓</div>
-            <b>Automatic Return</b><br>
-            <small>Ball collection system</small>
-          </div>
-        </div>
-      </td>
-      <td align="center" width="33%">
-        <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; height: 200px; display: flex; align-items: center; justify-content: center;">
-          <div style="text-align: center;">
-            <div style="font-size: 48px;">⚙️</div>
-            <b>Adjustable Shots</b><br>
-            <small>Speed & spin control</small>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <!-- Row 2: Additional Close-ups -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 40px 0;">
+    
+    <!-- Image 3 (Placeholder - add your 3rd image URL) -->
+    <div style="text-align: center;">
+      <img src="https://github.com/user-attachments/assets/705e675d-6b64-4421-b37a-722af805c4ba" 
+           alt="Throwing Mechanism Close-up" 
+           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
+      <p><strong>Throwing Wheels</strong><br>Dual-wheel spin system</p>
+    </div>
+    
+    <!-- Image 4 (Placeholder - add your 4th image URL) -->
+    <div style="text-align: center;">
+      <img src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" 
+           alt="Ball Return System" 
+           style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; border: 2px solid #eee;">
+      <p><strong>Ball Return</strong><br>Automatic collection system</p>
+    </div>
+    
+    <!-- Image 5 (Placeholder - add your 5th image URL) -->
+    <div style="text-align: center; background: #f8f9fa; padding: 20px; border-radius: 8px; display: flex; flex-direction: column; justify-content: center; align-items: center; height: 200px;">
+      <div style="font-size: 48px; margin-bottom: 10px;">🔌</div>
+      <p><strong>Control Panel</strong><br>Electronics & interface</p>
+    </div>
+    
+    <!-- Image 6 (Placeholder - add your 6th image URL) -->
+    <div style="text-align: center; background: #f8f9fa; padding: 20px; border-radius: 8px; display: flex; flex-direction: column; justify-content: center; align-items: center; height: 200px;">
+      <div style="font-size: 48px; margin-bottom: 10px;">🖨️</div>
+      <p><strong>3D Printed Parts</strong><br>Custom designed components</p>
+    </div>
+    
+  </div>
+
+  <!-- Row 3: More Images (if needed) -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0;">
+    
+    <!-- Image 7 (Placeholder) -->
+    <div style="text-align: center;">
+      <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 6px; display: flex; align-items: center; justify-content: center;">
+        <span style="color: white; font-size: 24px;">+ Add Image</span>
+      </div>
+      <p><small>More Detail 1</small></p>
+    </div>
+    
+    <!-- Image 8 (Placeholder) -->
+    <div style="text-align: center;">
+      <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 6px; display: flex; align-items: center; justify-content: center;">
+        <span style="color: white; font-size: 24px;">+ Add Image</span>
+      </div>
+      <p><small>More Detail 2</small></p>
+    </div>
+    
+    <!-- Image 9 (Placeholder) -->
+    <div style="text-align: center;">
+      <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 6px; display: flex; align-items: center; justify-content: center;">
+        <span style="color: white; font-size: 24px;">+ Add Image</span>
+      </div>
+      <p><small>More Detail 3</small></p>
+    </div>
+    
+    <!-- Image 10 (Placeholder) -->
+    <div style="text-align: center;">
+      <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 6px; display: flex; align-items: center; justify-content: center;">
+        <span style="color: white; font-size: 24px;">+ Add Image</span>
+      </div>
+      <p><small>More Detail 4</small></p>
+    </div>
+    
+  </div>
+  
 </div>
 
 ---
@@ -100,6 +139,17 @@
 ---
 
 ## 🚀 Project Status
+
+> ⚠️ **INTEREST VALIDATION PHASE** ⚠️
+> 
+> I've built a **working prototype** and am gauging community interest before investing 100+ hours in complete open-source documentation.
+
+### **[→ Express Interest via Google Form ←](https://forms.gle/YOUR_FORM_LINK_HERE)**
+*(Help me decide if I should create full build plans!)*
+
+---
+
+## 📁 Repository Structure
 
 > ⚠️ **INTEREST VALIDATION PHASE** ⚠️
 > 
