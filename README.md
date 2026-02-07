@@ -151,20 +151,6 @@
 
 ## 📁 Repository Structure
 
-> ⚠️ **INTEREST VALIDATION PHASE** ⚠️
-> 
-> I've built a **working prototype** and am gauging community interest before investing 100+ hours in complete open-source documentation.
-
-### **[→ Express Interest via Google Form ←](https://forms.gle/YOUR_FORM_LINK_HERE)**
-*(Help me decide if I should create full build plans!)*
-
----
-
-## 📁 Repository Structure
-
-
-
-
 
 Pickleball throwing machine with automatic ball return, 3D printable design, Arduino-controlled, automatic ball return mechanism  Features include adjustable speed/spin control, modular construction, and low target build cost. Controlled via bluetooth app on iphone
 
