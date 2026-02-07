@@ -1,7 +1,7 @@
 # Open-Source-Pickleball-Machine-with-automatic-ball-return
-![IMG_9551](https://github.com/user-attachments/assets/dc7353ea-b015-46c6-a80c-aea47289300e)
-<img width="1067" height="1422" alt="IMG_0548" src="https://github.com/user-attachments/assets/10f8efe7-3d74-4d60-81c2-0c25b4525690" />
+<img width="1701" height="2268" alt="IMG_9551" src="https://github.com/user-attachments/assets/18cbe50e-203b-4c78-a045-73c64982137f" />
 
+<img width="600" height="800" alt="IMG_0548" src="https://github.com/user-attachments/assets/987628da-5d3b-419e-bc1b-614c45569d20" />
 
 Watch it in action
 https://youtu.be/y6WTrUmHKkc
