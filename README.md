@@ -21,6 +21,14 @@ The machine works. Now I need to know: Are people interested in building it?
 ✅ Cost-Effective - Target build cost less than $300 + nets
 ✅ Open-Source Electronics - Arduino-based control system
 
+→ EXPRESS INTEREST VIA GOOGLE FORM ←
+https://docs.google.com/forms/d/1AuK-2WrGwGGVmtJQZMJGoJvWgovhStvdWFtB69YmWdU/edit
+
+Why this form matters:
+
+Your feedback determines if I create full build documentation
+I'll only email you when/if plans are released
+No spam, no mailing list - just one notification
 Frequently Asked Questions
 
 Q: How much will it cost to build?
