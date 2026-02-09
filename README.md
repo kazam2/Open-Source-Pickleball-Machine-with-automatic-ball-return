@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Project Status: Prototype](https://img.shields.io/badge/Status-Working_Prototype-green)]()
-[![YouTube Demo](https://img.shields.io/badge/YouTube-Watch_Demo-red)](https://youtu.be/zCTDf_rm0Lc)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Watch_Demo-red)](https://youtu.be/-K1L8DhNEu0))
 
 **A DIY, open-source pickleball throwing machine with integrated automatic ball return system.**
 
