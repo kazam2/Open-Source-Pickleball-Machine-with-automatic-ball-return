@@ -35,16 +35,12 @@
 
 
 ## 📊 **Help Guide Development**
-
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; margin: 30px 0; color: white;">
-  <h3 style="color: white; margin-top: 0;">🎯 Interest Validation Form</h3>
-  <p>Help me decide if I should create complete build documentation!</p>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwFzD_QCBbN8NykYntnTF1WnzxR2sk7jiJgPOOADxnDMM-Uw/viewform?usp=header" 
-     target="_blank" 
-     style="display: inline-block; background: white; color: #667eea; padding: 12px 30px; border-radius: 50px; text-decoration: none; font-weight: bold; font-size: 18px; margin: 15px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    📝 Take the 60-Second Survey
+<div align="center">
+  <a href="https://youtu.be/-K1L8DhNEu0" target="_blank">
+    <img src="https://img.youtube.com/vi/-K1L8DhNEu0/hqdefault.jpg" alt="Pickleball Machine Demo" style="width: 80%; border-radius: 12px; border: 3px solid #ff0000; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   </a>
-  <p style="font-size: 14px; opacity: 0.9;"><em>Your feedback determines the project's future!</em></p>
+  <br>
+  <em><strong>Click the image above to watch the full demonstration on YouTube!</strong></em>
 </div>
 ---
 
