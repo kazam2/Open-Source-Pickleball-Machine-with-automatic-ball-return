@@ -26,6 +26,7 @@
   <em><strong>Click the image above to watch the full demonstration on YouTube!</strong></em>
 </div>
 
+
 > **THIS IS AN INTEREST VALIDATION PHASE**
 > 
 > I've built a **working prototype** and now need your help deciding: Should I invest 100+ hours to create complete open-source documentation?
